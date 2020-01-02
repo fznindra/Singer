@@ -48,7 +48,13 @@
     "judul3" : "Posesif",
     "judul4" : "Aku Rela",
     "judul5" : "Jikalau",
-    "judul6" : "Benci Untuk Mencinta"
+    "judul6" : "Benci Untuk Mencinta",
+    "judul7" : "Nyali",
+    "judul8" : "Hai Monas",
+    "judul9" : "Dimana Aku Disini",
+    "judul10" : "Tersenyumlah",
+    "judul11" : "Selalu",
+    "judul12" : "Hidup Itu Indah"
    },
    {
     "name": "Sheila On 7",
@@ -61,6 +67,39 @@
     "judul7" : "Lapang dada",
     "judul8" : "Anugrah Terindah",
     "judul9" : "Kisak Klasik",
-    "judul10" : "JAP"
+    "judul10" : "JAP",
+    "judul10" : "Pemuja Rahasia",
+    "judul10" : "Berhenti Berharap"
+  },
+  {
+    "name": "Raisa",
+    "judul" : "Mantan Terindah",
+    "judul2" : "Serba Salah",
+    "judul3" : "Kali Kedua",
+    "judul4" : "Anganku Anganmu",
+    "judul5" : "Percayalah",
+    "judul6" : "Apalah",
+    "judul7" : "Jatuh Hati",
+    "judul8" : "Usai Disini",
+    "judul9" : "Cloud It Be",
+    "judul10" : "Terjebak Nostalgia",
+    "judul11" : "Lagu Untukmu",
+    "judul12" : "LDR"
+    
+  },
+  {
+    "name": "Afgan",
+    "judul" : "Terima Kasih Cinta",
+    "judul2" : "Sudah",
+    "judul3" : "Bukan Cinta Biasa",
+    "judul4" : "Bawalah Cintaku",
+    "judul5" : "Jodoh Pasti Bertemu",
+    "judul6" : "Katakan Tidak",
+    "judul7" : "Sadis",
+    "judul8" : "Panah Asmara",
+    "judul9" : "Heaven",
+    "judul10" : "Cinta 2 Hati",
+    "judul11" : "Padamu KuBersujud",
+    "judul12" : "Dia Dia Dia"
   }
 ]
