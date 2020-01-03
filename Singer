@@ -24,7 +24,11 @@
     "judul6" : "Sulung",
     "judul7" : "Ekspetasi",
     "judul8" : "Akhir Bulan",
-    "judul9" : "Saudade"
+    "judul9" : "Saudade",
+    "judul10" : "Bungsu",
+    "judul11" : "Suara",
+    "judul12" : "Gema"
+    
   },
   {
     "name": "Tulus",
@@ -68,8 +72,8 @@
     "judul8" : "Anugrah Terindah",
     "judul9" : "Kisak Klasik",
     "judul10" : "JAP",
-    "judul10" : "Pemuja Rahasia",
-    "judul10" : "Berhenti Berharap"
+    "judul11" : "Pemuja Rahasia",
+    "judul12" : "Berhenti Berharap"
   },
   {
     "name": "Raisa",
